@@ -14,7 +14,7 @@ const DEFAULTS = {
   embedLists: true,
   debug: false,
   maxLevel: 3,
-  namedGraphs: true
+  showNamedGraphs: true
 }
 
 function toBoolean (val) {
